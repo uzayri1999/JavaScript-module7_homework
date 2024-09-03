@@ -8,3 +8,5 @@ function printInfo (name, age) {
 };
 
 printInfo.call(person);
+
+
